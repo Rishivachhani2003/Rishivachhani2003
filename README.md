@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vachhani Rishi</h1>
+<p align="center">
+  <img src="https://imgs.search.brave.com/2WEDKSId23C2oQ1Bpbg0uPByvnw44Qw8i8MBKyWIerc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.gif" alt="Hi, I'm Vachhani Rishi" width="400" />
+</p>
 <h3 align="center">A passionate android developer</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishivachhani2003&label=Profile%20views&color=0e75b6&style=flat" alt="rishivachhani2003" /> </p>
 
@@ -12,7 +17,7 @@
 - 💬 Ask me about **Flutter, React-Native, React**
 
 - 📫 How to reach me **vachhanirishi2003@gmail.com**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vachhani-rishi-831157260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vachhani-rishi-831157260/" height="30" width="40" /></a>
