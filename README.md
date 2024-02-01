@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **building projects**
 
-- 🌱 I’m currently learning **React-js**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rishivachhani2003](https://github.com/Rishivachhani2003)
 
