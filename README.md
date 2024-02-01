@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rishivachhani2003](https://github.com/Rishivachhani2003)
 
-- 💬 Ask me about **Flutter, React-Native, React**
+- 💬 Ask me about **Flutter, React-Native**
 
 - 📫 How to reach me **vachhanirishi2003@gmail.com**
 
