@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **vachhanirishi2003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZFc5I3ZpzoOGxiJoTPBghfPsJsldqQNZ/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
