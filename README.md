@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vachhani Rishi</h1>
-<h3 align="center">A passionate software developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishivachhani2003&label=Profile%20views&color=0e75b6&style=flat" alt="rishivachhani2003" /> </p>
 
@@ -17,11 +17,39 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vachhani-rishi-831157260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vachhani-rishi-831157260" height="30" width="40" /></a>
-<a href="https://medium.com/@vachhanirishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vachhanirishi2003" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rishiv26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishiv26" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vachhani_rishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vachhani_rishi" height="30" width="40" /></a>
-<a href="https://gitlab.com/Rishivachhani2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gitlab.svg" alt="vachhani_rishi" height="30" width="40" /></a>
+
+  <!-- GitLab -->
+  <a href="https://gitlab.com/Rishivachhani2003" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rishi-vachhani-831157260" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@vachhanirishi" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+
+  <!-- Dev.to -->
+  <a href="https://dev.to/vachhanirishi" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Vachhani_Rishi/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  
+<!--   codechef -->
+   <a href="https://www.codechef.com/users/rishiv26" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+
 </p>
 
 <b>💻 Tech Stack<b>:
