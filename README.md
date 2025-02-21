@@ -9,7 +9,6 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rishivachhani2003](https://github.com/Rishivachhani2003)
 
 
 - 📫 How to reach me **vachhanirishi2003@gmail.com**
@@ -22,6 +21,7 @@
 <a href="https://medium.com/@vachhanirishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vachhanirishi2003" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rishiv26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishiv26" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vachhani_rishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vachhani_rishi" height="30" width="40" /></a>
+<a href="https://gitlab.com/Rishivachhani2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gitlab.svg" alt="vachhani_rishi" height="30" width="40" /></a>
 </p>
 
 <b>💻 Tech Stack<b>:
