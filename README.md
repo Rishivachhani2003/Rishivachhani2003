@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Rishi Vachhani 👋</h1>
 
-<h3 align="center">Mobile & Full-Stack Developer | Building things with React Native, Flutter & Java</h3>
+<h3 align="center">Developer | DevOps Enthusiast | Building things with AWS, Docker & GitHub Actions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishivachhani2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -13,9 +13,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently **building projects** across mobile and web platforms
-- 💡 I work with **React Native, Flutter, Java, and Android** to bring ideas to life
-- ☁️ Comfortable with **AWS** and **Docker** for deployment and infrastructure
+- 🔭 I'm currently **building projects** with a focus on cloud and DevOps
+- ☁️ I work with **AWS**, **Docker**, and **GitHub Actions** to build and automate deployments
+- 💡 Comfortable across the stack with **JavaScript**, **Dart**, and **Android**
 - 📫 Reach me at **vachhanirishi2003@gmail.com**
 
 ---
@@ -47,19 +47,21 @@
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**
+**Languages**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 
-**Cloud, Tools & Design**
+**DevOps & Cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-005571?style=for-the-badge&logo=devopsdotcom&logoColor=white)
+
+**Tools & Design**
+
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
